@@ -4,6 +4,12 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
+# This is an h1 size heading
+## This is an h2 heading
+### This is an h3
+#### This is 4
+##### is 5
+###### 6
 
 # Communicate using Markdown
 
