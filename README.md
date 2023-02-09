@@ -54,10 +54,10 @@ for (int i = 0; i < 6; i++) {
 }
 ```
 ##### Random Task List
-[x] Do a thing
-[x] Do another thing
-[] Do one more thing
-[] Okay, this is the last for reals. Now do it.
+- [x] Do a thing
+- [x] Do another thing
+- [ ] Do one more thing
+- [ ] Okay, this is the last for reals. Now do it.
 
 <!--
   <<< Author notes: Step 1 >>>
