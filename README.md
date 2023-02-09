@@ -46,11 +46,19 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
 <!--endstep0-->
+
+##### Random Code Block
 ```
 for (int i = 0; i < 6; i++) {
   DoSomething();
 }
 ```
+##### Random Task List
+[x] Do a thing
+[x] Do another thing
+[] Do one more thing
+[] Okay, this is the last for reals. Now do it.
+
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
