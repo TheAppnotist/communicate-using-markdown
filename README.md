@@ -12,6 +12,7 @@
 ###### 6
 
 # Communicate using Markdown
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -45,7 +46,11 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
 <!--endstep0-->
-
+```
+for (int i = 0; i < 6; i++) {
+  DoSomething();
+}
+```
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
