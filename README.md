@@ -7,9 +7,9 @@
 # This is an h1 size heading
 ## This is an h2 heading
 ### This is an h3
-#### This is 4
-##### is 5
-###### 6
+#### This is h4
+##### is h5
+###### h6
 
 # Communicate using Markdown
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
